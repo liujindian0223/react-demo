@@ -1,0 +1,284 @@
+[{
+    "data": {
+        "banner": [{
+            "start_time": "2018-04-24 00:00:00",
+            "height": 376,
+            "width": 750,
+            "link": "https:\/\/market.douban.com\/campaign\/backpack-3m",
+            "end_time": "2018-05-24 23:59:59",
+            "image": "https://img3.doubanio.com\/img\/files\/file-1524482877-2.png"
+        }, {
+            "width": 750,
+            "image": "https://img3.doubanio.com\/img\/files\/file-1524122635-0.jpg",
+            "link": "https:\/\/market.douban.com\/campaign\/coffee",
+            "height": 376
+        }, {
+            "width": 750,
+            "image": "https://img3.doubanio.com\/img\/files\/file-1519640597-1.jpg",
+            "link": "https:\/\/market.douban.com\/campaign\/phonecase",
+            "height": 376
+        }, {
+            "width": 750,
+            "image": "https://img3.doubanio.com\/img\/files\/file-1521684961-1.jpg",
+            "link": "https:\/\/market.douban.com\/campaign\/notebook",
+            "height": 376
+        }, {
+            "width": 750,
+            "image": "https://img3.doubanio.com\/img\/files\/file-1524459881-0.jpg",
+            "link": "https:\/\/m.douban.com\/time\/product\/book_time",
+            "height": 376
+        }]
+    },
+    "key": "market_banner"
+}, {
+    "data": {
+        "cart_url": "https:\/\/shiji.douban.com\/cart?biz_type=market",
+        "people_url": "https:\/\/shiji.douban.com\/people"
+    },
+    "key": "market_people"
+}, {
+    "data": {
+        "product_items": [{
+            "can_buy": true,
+            "sku_id": 238833,
+            "tags": [{
+                "color": "#f05f50",
+                "text": "上新特惠"
+            }, {
+                "color": "#F2BE40",
+                "text": "4.24-4.27"
+            }],
+            "url": "https:\/\/market.douban.com\/product\/140149\/?index=1&r=sku",
+            "start_time": "2018-04-23 00:00:00",
+            "title": "豆瓣「三刻」双肩包",
+            "product_name": "backpack-3m",
+            "end_time": "2019-04-23 00:00:00",
+            "image": "https://img3.doubanio.com\/img\/files\/file-1524482892-0.png",
+            "price_range": "449",
+            "is_pre_sale": false,
+            "stock": 382,
+            "id": "140149",
+            "desc": "双肩斜挎，瞬间变形，一包两用，双倍扩容。"
+        }, {
+            "can_buy": true,
+            "sku_id": 249340,
+            "tags": [{
+                "color": "#F2BE40",
+                "text": "新品"
+            }],
+            "url": "https:\/\/market.douban.com\/product\/150563\/?index=2&r=sku",
+            "start_time": "2018-04-20 00:00:00",
+            "title": "豆瓣线装笔记本",
+            "id": "150563",
+            "end_time": "2018-04-20 23:59:59",
+            "image": "https://img3.doubanio.com\/img\/files\/file-1524196402-0.jpg",
+            "price_range": "18~88",
+            "is_pre_sale": false,
+            "stock": 8563,
+            "product_name": "notebook-basic",
+            "desc": "简单凝练，轻薄便携，书写流畅，不洇不透"
+        }, {
+            "can_buy": true,
+            "sku_id": 249314,
+            "tags": [{
+                "color": "#F2BE40",
+                "text": "新品"
+            }],
+            "url": "https:\/\/market.douban.com\/product\/150546\/?index=3&r=sku",
+            "image": "https://img3.doubanio.com\/img\/files\/file-1524194134-0.jpg",
+            "title": "豆瓣精品挂耳咖啡-甜橙庄园系列",
+            "id": "150546",
+            "stock": 437,
+            "price_range": "56",
+            "is_pre_sale": false,
+            "product_name": "coffee",
+            "desc": "甄选COE获奖精品咖啡。花香浓郁，果香四溢，回味甘甜。"
+        }, {
+            "can_buy": true,
+            "direction": "ltr",
+            "sku_id": 235345,
+            "title": "豆瓣·电影畅想系列手机壳",
+            "url": "https:\/\/market.douban.com\/product\/136686\/?index=4&r=sku",
+            "image": "https://img3.doubanio.com\/img\/files\/file-1522048538-5.jpg",
+            "tags": [{
+                "color": "#F2BE40",
+                "text": "新品"
+            }],
+            "id": "136686",
+            "stock": 1199,
+            "price_range": "48",
+            "is_pre_sale": false,
+            "product_name": "phonecase",
+            "desc": "以经典电影为图案灵感，自然元素塑造独特造型，高质量双重材质，保护你的手机。"
+        }, {
+            "can_buy": true,
+            "direction": "rtl",
+            "sku_id": 215233,
+            "tags": [{
+                "color": "#F2BE40",
+                "text": "热卖"
+            }],
+            "url": "https:\/\/market.douban.com\/product\/119843\/?index=5&r=sku",
+            "image": "https://img3.doubanio.com\/img\/files\/file-1522048538-1.jpg",
+            "title": "豆瓣笔记本·遇见你系列",
+            "id": "119843",
+            "stock": 3719,
+            "price_range": "48~158",
+            "is_pre_sale": false,
+            "product_name": "notebook",
+            "desc": "方格内页，落笔顺畅，不洇不透。愿你在书写中遇见自我。"
+        }, {
+            "can_buy": true,
+            "direction": "ltr",
+            "sku_id": 235333,
+            "title": "豆瓣心茶",
+            "url": "https:\/\/market.douban.com\/product\/136685\/?index=6&r=sku",
+            "image": "https://img3.doubanio.com\/img\/files\/file-1522048538-2.jpg",
+            "tags": [{
+                "color": "#F2BE40",
+                "text": "热卖"
+            }],
+            "id": "136685",
+            "stock": 1151,
+            "price_range": "68",
+            "is_pre_sale": false,
+            "product_name": "tea",
+            "desc": "严选优质鲜花与茶叶，精心窨制花茶。万千心意，尽在心茶。"
+        }, {
+            "can_buy": true,
+            "direction": "rtl",
+            "sku_id": 193728,
+            "title": "豆瓣收藏夹",
+            "url": "https:\/\/market.douban.com\/product\/104293\/?index=7&r=sku",
+            "image": "https://img3.doubanio.com\/img\/files\/file-1522048538-4.jpg",
+            "tags": [],
+            "id": "104293",
+            "stock": 26796,
+            "price_range": "16~99",
+            "is_pre_sale": false,
+            "product_name": "collection",
+            "desc": "珍藏那些不舍丢弃的照片和票根，给你的回忆一处安放之所。"
+        }, {
+            "can_buy": true,
+            "direction": "ltr",
+            "sku_id": 203807,
+            "title": "豆瓣帆布包·早餐系列",
+            "url": "https:\/\/market.douban.com\/product\/111456\/?index=8&r=sku",
+            "image": "https://img3.doubanio.com\/img\/files\/file-1522048538-3.jpg",
+            "tags": [],
+            "id": "111456",
+            "stock": 268,
+            "price_range": "149",
+            "is_pre_sale": false,
+            "product_name": "canvasbag",
+            "desc": "简约版型 + 多层收纳 + 食欲满满的早餐图案 = 你不可或缺的搭配好物"
+        }, {
+            "can_buy": false,
+            "direction": "rtl",
+            "sku_id": 217535,
+            "title": "豆瓣电影日历2018",
+            "url": "https:\/\/market.douban.com\/product\/121849\/?index=9&r=sku",
+            "image": "https://img3.doubanio.com\/img\/files\/file-1522048538-0.jpg",
+            "tags": [{
+                "color": "#9B9B9B",
+                "text": "售罄"
+            }],
+            "id": "121849",
+            "stock": 0,
+            "price_range": "98~158",
+            "is_pre_sale": false,
+            "product_name": "calendar2018",
+            "desc": "全年高分片单，流畅翻页设计，让豆瓣陪你一起感受时光。"
+        }]
+    },
+    "key": "market_newproducts"
+}, {
+    "data": {
+        "topics": [{
+            "update_time": "04-24",
+            "img": "https://img3.doubanio.com\/view\/group_topic\/large\/public\/p114912775.jpg",
+            "title": "【上新送券儿】男生的包里有什么？以及…看看豆瓣男员工的包里都有什么！",
+            "poster": {
+                "id": "doubanshiji",
+                "name": "豆瓣市集",
+                "avatar": "https://img3.doubanio.com\/icon\/u119347429-13.jpg"
+            },
+            "hot_amount": 18,
+            "id": "116029671"
+        }, {
+            "update_time": "04-23",
+            "img": "https://img1.doubanio.com\/view\/group_topic\/large\/public\/p114446808.jpg",
+            "title": "【强势上新发券】豆瓣线装笔记本全新上市┃珍惜 你随手写下的每分思绪\n",
+            "poster": {
+                "id": "doubanshiji",
+                "name": "豆瓣市集",
+                "avatar": "https://img3.doubanio.com\/icon\/u119347429-13.jpg"
+            },
+            "hot_amount": 5,
+            "id": "115839702"
+        }, {
+            "update_time": "04-24",
+            "img": "https://img1.doubanio.com\/view\/group_topic\/large\/public\/p111219547.jpg",
+            "title": "【投票】纯色手机壳上，你喜欢什么样的豆瓣logo？",
+            "poster": {
+                "id": "doubanshiji",
+                "name": "豆瓣市集",
+                "avatar": "https://img3.doubanio.com\/icon\/u119347429-13.jpg"
+            },
+            "hot_amount": 1080,
+            "id": "114585593"
+        }],
+        "group_id": "588598"
+    },
+    "key": "market_group"
+}, {
+    "data": {
+        "topic_list": [{
+            "desc": "以及……看看豆瓣男员工的包里都有什么！",
+            "link": "https:\/\/www.douban.com\/gallery\/topic\/3135\/?index=1&r=topic",
+            "img": "https://img3.doubanio.com\/img\/files\/file-1524481845-0.jpg",
+            "title": "#男生的包里有什么#"
+        }, {
+            "desc": "送出50份壕礼：茶和酒你更青睐哪个呢？",
+            "link": "https:\/\/www.douban.com\/people\/119347429\/status\/2122634564\/?index=2&r=topic",
+            "img": "https://img3.doubanio.com\/img\/files\/file-1520332486-1.jpg",
+            "title": "#你是茶派还是酒派#"
+        }, {
+            "desc": "点击输入对你有意义的日子，看看那天属于你的电影是哪一部吧！",
+            "link": "https:\/\/shiji.douban.com\/yard\/playground\/calendar?index=3&r=topic",
+            "img": "https://img3.doubanio.com\/img\/files\/file-1517992833-0.jpg",
+            "title": "#生成你的2018专属电影#"
+        }, {
+            "desc": "它是否已和你共同开启新年的电影旅程了呢？",
+            "link": "https:\/\/douc.cc\/2eVvHs?index=4&r=topic",
+            "img": "https://img3.doubanio.com\/img\/files\/file-1515387415-1.jpg",
+            "title": "#晒出你的2018豆瓣日历#"
+        }, {
+            "desc": "年末将至，豆瓣为你捎来一封手写信。",
+            "link": "https:\/\/www.douban.com\/people\/119347429\/status\/2075439347\/?index=5&r=topic",
+            "img": "https://img3.doubanio.com\/img\/files\/file-1513591841-1.jpg",
+            "title": "#光阴带走的，电影留给你#"
+        }, {
+            "desc": "晒出你的豆瓣收藏夹，让我们看看你走过的世界吧。",
+            "link": "https:\/\/m.douban.com\/hashtag\/%E6%88%91%E7%9A%84%E8%B1%86%E7%93%A3%E6%94%B6%E8%97%8F%E5%A4%B9%E9%87%8C%E6%9C%89%E4%BB%80%E4%B9%88?index=6&r=topic",
+            "img": "https://img3.doubanio.com\/img\/files\/file-1499743637-0.jpg",
+            "title": "#我的豆瓣收藏夹里有什么#"
+        }, {
+            "desc": "留存的东西不只是回忆，更是时代变迁的痕迹。",
+            "link": "https:\/\/m.douban.com\/hashtag\/%E5%81%9C%E4%B8%8D%E4%B8%8B%E7%9A%84%E6%94%B6%E8%97%8F%E7%99%96?index=7&r=topic",
+            "img": "https://img3.doubanio.com\/img\/files\/file-1498460800-1.jpg",
+            "title": "#停不下的收藏癖#"
+        }, {
+            "desc": "一起来分享关于豆瓣周边的脑洞和创意吧！",
+            "link": "https:\/\/m.douban.com\/hashtag\/%E5%A6%82%E6%9E%9C%E8%B1%86%E7%93%A3%E5%87%BA%E6%96%B0%E5%91%A8%E8%BE%B9?index=8&r=topic",
+            "img": "https://img3.doubanio.com\/img\/files\/file-1498551470-1.jpg",
+            "title": "#如果豆瓣出新周边#"
+        }, {
+            "desc": "有没有那么一部电影，打动你的心~",
+            "link": "https:\/\/m.douban.com\/hashtag\/%E8%B1%86%E7%93%A3%E6%97%A5%E5%8E%86?index=9&r=topic",
+            "img": "https://img3.doubanio.com\/img\/files\/file-1498551470-0.jpg",
+            "title": "#晒晒你的2017豆瓣日历#"
+        }]
+    },
+    "key": "market_topic"
+}]
